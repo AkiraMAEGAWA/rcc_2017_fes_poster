@@ -27,17 +27,17 @@
                     <use fill="#74B7E1" fill-rule="evenodd" xlink:href="#path-1"></use>
                     <rect stroke="#979797" stroke-width="1" x="0.5" y="1.5" width="420" height="66"></rect>
                 </g>
-                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#FFFFFF">
-                    <tspan x="20" y="46">暗号通貨の行方</tspan>
+                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#ED5C00">
+                    <tspan x="18" y="47">暗号通貨のこれから　</tspan>
                 </text>
                 <text id="Paragraph" font-family="Helvetica" font-size="21" font-weight="normal" fill="#000000">
-                    <tspan x="20" y="130">aasa</tspan>
-                    <tspan x="20" y="165">asas</tspan>
-                    <tspan x="20" y="200"></tspan>
-                    <tspan x="20" y="235"></tspan>
-                    <tspan x="20" y="270"></tspan>
-                    <tspan x="20" y="305"></tspan>
-                    <tspan x="20" y="340">sasa</tspan>
+                    <tspan x="18.3842795" y="130">aasa</tspan>
+                    <tspan x="18.3842795" y="165">asas</tspan>
+                    <tspan x="18.3842795" y="200"></tspan>
+                    <tspan x="18.3842795" y="235"></tspan>
+                    <tspan x="18.3842795" y="270"></tspan>
+                    <tspan x="18.3842795" y="305"></tspan>
+                    <tspan x="18.3842795" y="340">sasa</tspan>
                 </text>
             </g>
             <g id="Body3" transform="translate(420.000000, 247.000000)">
@@ -46,17 +46,12 @@
                     <use fill="#74B7E1" fill-rule="evenodd" xlink:href="#path-2"></use>
                     <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="420" height="66"></rect>
                 </g>
-                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#FFFFFF">
+                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#ED5C00">
                     <tspan x="21" y="45">現れしaltcoin</tspan>
                 </text>
                 <text id="Paragraph" font-family="Helvetica" font-size="21" font-weight="normal" fill="#000000">
-                    <tspan x="20" y="120">aasa</tspan>
-                    <tspan x="20" y="155">asas</tspan>
-                    <tspan x="20" y="190"></tspan>
-                    <tspan x="20" y="225"></tspan>
-                    <tspan x="20" y="260"></tspan>
-                    <tspan x="20" y="295"></tspan>
-                    <tspan x="20" y="330">sasa</tspan>
+                    <tspan x="20" y="120">bitcoin</tspan>
+                    <tspan x="80.703125" y="120" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">の問題点を改善するために</tspan>
                 </text>
             </g>
             <g id="Body2" transform="translate(0.000000, 718.000000)">
@@ -65,18 +60,12 @@
                     <use fill="#74B7E1" fill-rule="evenodd" xlink:href="#path-3"></use>
                     <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="420" height="66"></rect>
                 </g>
-                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#FFFFFF">
-                    <tspan x="20" y="39">暗号通貨</tspan>
-                    <tspan x="195" y="39" font-family="Helvetica-Bold, Helvetica" font-weight="bold">Bitcoin</tspan>
+                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#ED5C00">
+                    <tspan x="20" y="42">暗号通貨</tspan>
+                    <tspan x="195" y="42" font-family="Helvetica-Bold, Helvetica" font-weight="bold">Bitcoin</tspan>
                 </text>
-                <text id="Paragraph" font-family="Helvetica" font-size="21" font-weight="normal" fill="#000000">
-                    <tspan x="20" y="129">aasa</tspan>
-                    <tspan x="20" y="164">asas</tspan>
-                    <tspan x="20" y="199"></tspan>
-                    <tspan x="20" y="234"></tspan>
-                    <tspan x="20" y="269"></tspan>
-                    <tspan x="20" y="304"></tspan>
-                    <tspan x="20" y="339">sasa</tspan>
+                <text id="Paragraph" font-family="HiraginoSans-W3, Hiragino Sans" font-size="21" font-weight="300" fill="#000000">
+                    <tspan x="20" y="141">暗号通貨の代表格としてBitcoin</tspan>
                 </text>
             </g>
             <g id="Body1" transform="translate(0.000000, 247.000000)">
@@ -88,6 +77,13 @@
                 <text id="Header" font-family="Helvetica-Bold, Helvetica" font-size="43.75" font-weight="bold" fill="#ED5C00">
                     <tspan x="20" y="45">Blockchain</tspan>
                     <tspan x="253.404541" y="45" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">とは</tspan>
+                </text>
+                <text id="Paragraph" font-family="HiraginoSans-W3, Hiragino Sans" font-size="21" font-weight="300" fill="#000000">
+                    <tspan x="20" y="133">・</tspan>
+                    <tspan x="41" y="133" font-family="Helvetica" font-weight="normal">Blockchain</tspan>
+                    <tspan x="142.554688" y="133">の特徴</tspan>
+                    <tspan x="205.554688" y="133" font-family="Helvetica" font-weight="normal"></tspan>
+                    <tspan x="20" y="168" font-family="Helvetica" font-weight="normal">    1. </tspan>
                 </text>
             </g>
         </g>
