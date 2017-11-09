@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="841px" height="1189px" viewBox="0 0 841 1189" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1" width="421" height="67"></rect>
+        <rect id="path-2" x="0" y="0" width="421" height="67"></rect>
+        <rect id="path-3" x="0" y="0" width="421" height="67"></rect>
+        <rect id="path-4" x="0" y="0" width="421" height="67"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Title">
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="0" y="0" width="841" height="247"></rect>
+                <text id="メンバー" font-family="HiraginoSans-W3, Hiragino Sans" font-size="27" font-weight="300" fill="#000000">
+                    <tspan x="542" y="179">メンバー</tspan>
+                </text>
+                <text id="HACK-CHAIN-班" font-family="Helvetica-Bold, Helvetica" font-size="100" font-weight="bold" fill="#74B7E1">
+                    <tspan x="55" y="149">HACK CHAIN </tspan>
+                    <tspan x="716.083984" y="149" font-family="HiraginoSans-W3, Hiragino Sans" font-size="70" font-weight="300">班</tspan>
+                </text>
+            </g>
+            <g id="Body4" transform="translate(421.000000, 717.000000)">
+                <rect stroke="#979797" x="0.5" y="0.5" width="420" height="470"></rect>
+                <g id="Heading4">
+                    <use fill="#74B7E1" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="1.5" width="420" height="66"></rect>
+                </g>
+                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#FFFFFF">
+                    <tspan x="20" y="46">暗号通貨の行方</tspan>
+                </text>
+                <text id="Paragraph" font-family="Helvetica" font-size="21" font-weight="normal" fill="#000000">
+                    <tspan x="20" y="130">aasa</tspan>
+                    <tspan x="20" y="165">asas</tspan>
+                    <tspan x="20" y="200"></tspan>
+                    <tspan x="20" y="235"></tspan>
+                    <tspan x="20" y="270"></tspan>
+                    <tspan x="20" y="305"></tspan>
+                    <tspan x="20" y="340">sasa</tspan>
+                </text>
+            </g>
+            <g id="Body3" transform="translate(420.000000, 247.000000)">
+                <rect stroke="#979797" x="0.5" y="0.5" width="420" height="470"></rect>
+                <g id="Heading3">
+                    <use fill="#74B7E1" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="420" height="66"></rect>
+                </g>
+                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#FFFFFF">
+                    <tspan x="21" y="45">現れしaltcoin</tspan>
+                </text>
+                <text id="Paragraph" font-family="Helvetica" font-size="21" font-weight="normal" fill="#000000">
+                    <tspan x="20" y="120">aasa</tspan>
+                    <tspan x="20" y="155">asas</tspan>
+                    <tspan x="20" y="190"></tspan>
+                    <tspan x="20" y="225"></tspan>
+                    <tspan x="20" y="260"></tspan>
+                    <tspan x="20" y="295"></tspan>
+                    <tspan x="20" y="330">sasa</tspan>
+                </text>
+            </g>
+            <g id="Body2" transform="translate(0.000000, 718.000000)">
+                <rect stroke="#979797" x="0.5" y="0.5" width="420" height="470"></rect>
+                <g id="Heading2">
+                    <use fill="#74B7E1" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="420" height="66"></rect>
+                </g>
+                <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="43.75" font-weight="500" fill="#FFFFFF">
+                    <tspan x="20" y="39">暗号通貨</tspan>
+                    <tspan x="195" y="39" font-family="Helvetica-Bold, Helvetica" font-weight="bold">Bitcoin</tspan>
+                </text>
+                <text id="Paragraph" font-family="Helvetica" font-size="21" font-weight="normal" fill="#000000">
+                    <tspan x="20" y="129">aasa</tspan>
+                    <tspan x="20" y="164">asas</tspan>
+                    <tspan x="20" y="199"></tspan>
+                    <tspan x="20" y="234"></tspan>
+                    <tspan x="20" y="269"></tspan>
+                    <tspan x="20" y="304"></tspan>
+                    <tspan x="20" y="339">sasa</tspan>
+                </text>
+            </g>
+            <g id="Body1" transform="translate(0.000000, 247.000000)">
+                <rect stroke="#979797" x="0.5" y="0.5" width="420" height="470"></rect>
+                <g id="Heading1">
+                    <use fill="#74B7E1" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="420" height="66"></rect>
+                </g>
+                <text id="Header" font-family="Helvetica-Bold, Helvetica" font-size="43.75" font-weight="bold" fill="#ED5C00">
+                    <tspan x="20" y="45">Blockchain</tspan>
+                    <tspan x="253.404541" y="45" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">とは</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
