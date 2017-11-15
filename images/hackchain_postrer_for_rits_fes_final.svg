@@ -29,22 +29,23 @@
                 <text id="Header" font-family="HiraginoSans-W6, Hiragino Sans" font-size="38" font-weight="500" fill="#FC3ECA">
                     <tspan x="17.3374953" y="45">マイニング事始め</tspan>
                 </text>
-                <text id="ブロックチェーンを調べるにつれ、実際に" font-family="HiraginoSans-W3, Hiragino Sans" font-size="17" font-weight="300" fill="#000000">
+                <text id="ブロックチェーンを調べるにつれ、実際に" font-family="HiraginoSans-W3, Hiragino Sans" font-size="16" font-weight="300" fill="#000000">
                     <tspan x="0" y="114">　ブロックチェーンを調べるにつれ、実際に</tspan>
-                    <tspan x="0" y="148">　ブロックチェーンを繋げてみたいと感じ、</tspan>
-                    <tspan x="0" y="175">　マイニングを始めることとなった。</tspan>
-                    <tspan x="0" y="202">　マイニングとは通貨の取引記録を承認して</tspan>
-                    <tspan x="0" y="229">　いく作業である。この作業はブロックチェーン</tspan>
-                    <tspan x="0" y="256">　において本質的な存在である。また以下に</tspan>
-                    <tspan x="0" y="290">　マイニングソフトウェア</tspan>
-                    <tspan x="0" y="317">　GPUやASIC等の計算リソース</tspan>
-                    <tspan x="0" y="344">　自分用のウォレット</tspan>
-                    <tspan x="0" y="371">　鋼の心</tspan>
-                    <tspan x="0" y="398">　</tspan>
-                    <tspan x="0" y="432">　マイニングをするために必要となる基本要素</tspan>
-                    <tspan x="0" y="459">　を示した。今後マイニングをしてみたいと</tspan>
-                    <tspan x="0" y="486">　考えている人は参考にしてほしい。</tspan>
-                    <tspan x="0" y="513"></tspan>
+                    <tspan x="0" y="147">　ブロックチェーンを繋げてみたいと感じ、</tspan>
+                    <tspan x="0" y="173">　マイニングを始めることとなった。</tspan>
+                    <tspan x="0" y="199">　マイニングとは通貨の取引記録を承認して</tspan>
+                    <tspan x="0" y="225">　いく作業である。この作業はブロックチェーン</tspan>
+                    <tspan x="0" y="251">　において本質的な存在である。また以下に</tspan>
+                    <tspan x="319.36" y="251" font-size="17"></tspan>
+                    <tspan x="0" y="284" font-size="17">　マイニングソフトウェア</tspan>
+                    <tspan x="0" y="311" font-size="17">　GPUやASIC等の計算リソース</tspan>
+                    <tspan x="0" y="338" font-size="17">　自分用のウォレット</tspan>
+                    <tspan x="0" y="365" font-size="17">　鋼の心</tspan>
+                    <tspan x="0" y="392" font-size="17">　</tspan>
+                    <tspan x="17" y="392">マイニングをするために必要となる基本要素</tspan>
+                    <tspan x="0" y="419">　を示した。今後マイニングをしてみたいと</tspan>
+                    <tspan x="0" y="445">　考えている人は参考にしてほしい。</tspan>
+                    <tspan x="0" y="471" font-size="17"></tspan>
                 </text>
                 <rect id="Rectangle-3" fill="#FC3ECA" x="11" y="276.710022" width="2.77999997" height="97"></rect>
             </g>
